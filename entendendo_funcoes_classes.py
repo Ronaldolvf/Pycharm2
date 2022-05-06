@@ -1,15 +1,15 @@
-# def test():
-#
-#     print ("wellcome")
-#     informe_numero = int(input("defina o número"))
-#
-#     if (informe_numero <= 10):
-#         print("errou")
-#     else:
-#         print ("acertou")
-#
-# if (__name__ == "__main__"):                                                                                          # Quando se coloca o main, não se consegue importa com o from.
-#     test()
+def test():
+
+    print ("wellcome")
+    informe_numero = int(input("defina o número"))
+
+    if (informe_numero <= 10):
+        print("errou")
+    else:
+        print ("acertou")
+
+if (__name__ == "__main__"):                                                                                          # Quando se coloca o main, não se consegue importa com o from.
+    test()
 
 class ControleRemoto:
 
