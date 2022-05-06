@@ -15,7 +15,7 @@ def numero():
     nivel = int(input("Defina o nível de dificuldade:"))
 
     if (nivel == 1):
-        total_de_tentativas = 20
+        total_de_tentativas = 2000000000000000000000000
 
     elif (nivel == 2):
         total_de_tentativas = 10
