@@ -69,7 +69,7 @@ def numero():
 
 
 def mensagens_de_boas_vindas():  # Criar uma função para deixar o cógigo mais organizado
-    print ("Bem vindooooooooooooooooooooooooooooooooooooooooooo!!!")
+    print ("Bem vindo querido!!!")
 
 def imprime_mensagem_vencedor():
     print("Parabéns, você ganhou!")
