@@ -63,7 +63,7 @@ def jogar():        # É uma função
 
 
 def mensagens_de_boas_vindas():  # Criar uma função para deixar o cógigo mais organizado
-    print ("Bem vindo Sualamita")
+    print ("Bem vindo Sulamita e Ronaldo")
 
 
 def esse_e_o_chute():
